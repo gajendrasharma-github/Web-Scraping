@@ -8,7 +8,7 @@
 
 `4.` Scraping Laptop Details from Amazon for the brand Asus [Link](https://github.com/gajendrasharma-github/Web-Scraping/blob/main/Extracting%20Laptop%20Details%20for%20Brand%20Asus%20Using%20Selenium.ipynb)
 
-`5.` Scraping Election Outcomes from Election Commision of India Results Website [Link](https://github.com/gajendrasharma-github/India-2024-Election-Results-Streamlit-Visualization/blob/main/Election%20Results%20Scraping.ipynb)
+`5.` Scraping Election Outcomes from Election Commision of India Results Website [Link](https://github.com/gajendrasharma-github/Web-Scraping/blob/main/Election%20Results%20Scraping.ipynb)
 
 
 ## Introduction to Web Scraping
